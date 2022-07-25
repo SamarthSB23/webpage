@@ -1,0 +1,24 @@
+
+.title {
+  color: #333;
+  padding-bottom: 20px;
+  text-align: right;
+}
+.text p{
+  color: #edf0f1;
+}
+.btn {
+  display: none;
+  width: 150px;
+  padding: 10px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 10px;
+  border-style: groove;
+  color: white;
+}
+.content {
+  max-width: 960px;
+  margin: 0 auto;
+  color: #edf0f1;
+}
